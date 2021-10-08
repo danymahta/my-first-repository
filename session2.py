@@ -1,7 +1,7 @@
 
 
 def func(a ,b):
-    return "goodbye"
+    return "hello"
 
 def func2(a, b):
     return a - b
